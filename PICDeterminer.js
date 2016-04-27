@@ -4,7 +4,8 @@ var members = [
 	"7pairs",
 	"mojyakou",
 	"ilovelili",
-	"aoki-movad"
+	"aoki-movad",
+	"SatoshiKawamoto"
 ];
 var index = Math.floor(Math.random() * members.length);
 members[index];
