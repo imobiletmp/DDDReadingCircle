@@ -3,7 +3,6 @@ var members = [
 	"onokatsu",
 	"7pairs",
 	"mojyakou",
-	"ilovelili",
 	"aoki-movad",
 	"SatoshiKawamoto",
 	"im-kashi"
